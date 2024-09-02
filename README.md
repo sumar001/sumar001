@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 
 🎓 Specializing in Human Centered Data Science
 
+✨ Currently, working at the Ontario Ministry of Children, Community, & Social Services
+
 🧐 My areas of focus include Data Science, Data Analytics, and Machine Learning
 
 📩 I can be reached at saadumar642@gmail.com
 
 🔗 Check out my LinkedIn profile @ https://www.linkedin.com/in/saad-umar-54422b15/
-
