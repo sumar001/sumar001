@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 📩 I can be reached at saadumar642@gmail.com
 
-🔗 Check out my LinkedIn profile @ https://www.linkedin.com/in/saad-umar-54422b15/
+🔗 Check out my LinkedIn profile @ https://www.linkedin.com/in/sumar642/
