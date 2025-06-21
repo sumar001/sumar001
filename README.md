@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   - Work with large, complex datasets to solve real-world problems
 
-💡 I'm passionate about data-driven impact in the public sector and open to opportunities where I can apply my skills in analytics, automation, and machine learning.
+💡 I'm passionate about data-driven impact and open to opportunities where I can apply my skills in analytics, automation, and machine learning.
 
 📩 I can be reached at saadumar642@gmail.com
 
